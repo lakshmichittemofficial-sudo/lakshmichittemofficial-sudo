@@ -34,22 +34,23 @@ Passionate about turning raw data into insights that support business strategy a
 
 ### 📌 Featured Projects
 
-#### 🔹 **Business Forecasting – ARIMA Seasonal Trend Analysis**  
+#### 🔹 **Business Forecasting – ARIMA Seasonal Trend Analysis**
 Time-series analysis (decomposition, regression trends, ARIMA) with insights and forecasting visualizations.  
 📁 Repo: *business-forecasting-arima-project*  
 📄 Full Report included in `/report` folder
 
-#### 🔹 **E.ON Next Inspired KPI Dashboard (Power BI)** *(In Progress)*  
+#### 🔹 **E.ON Next Inspired KPI Dashboard (Power BI)** *(Coming Soon)*
 Customer operations dashboard tracking resolution time, SLA, NPS, complaints, and performance metrics.
 
-#### 🔹 **SQL Data Quality Audit & Reconciliation Pipeline** *(In Progress)*  
+#### 🔹 **SQL Data Quality Audit & Reconciliation Pipeline** *(Coming Soon)*
 SQL scripts to validate datasets, detect anomalies, enforce business rules, and generate audit summaries.
 
-#### 🔹 **Credit Risk Tableau Dashboard** *(In Progress)*  
+#### 🔹 **Credit Risk Tableau Dashboard** *(Coming Soon)*
 Interactive Tableau dashboard for credit scoring and risk segmentation.
 
-#### 🔹 **AI-Powered Insights Analyzer (Low-Code Project)** *(Planned)*  
+#### 🔹 **AI-Powered Insights Analyzer (Low-Code Project)** *(Coming Soon)*
 Power BI + Azure Cognitive Services for sentiment analysis of customer complaints.
+
 
 ---
 
